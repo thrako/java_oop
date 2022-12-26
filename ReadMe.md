@@ -1,13 +1,13 @@
 ### Java lessons (_theory and practice_):
 
-[Working with Abstraction]() 
+[Working with Abstraction](https://github.com/thrako/java_oop/tree/main/lesson01_working_with_abstraction) 
 > Project Architecture  
 > Code Refactoring  
 > Enumerations  
 > Keyword `static`  
 > Java Packages  
 
-[Encapsulation]()
+[Encapsulation](https://github.com/thrako/java_oop/tree/main/lesson02_encapsulation)
 > What is Encapsulation?  
 Keyword `this`  
 Access Modifiers  
@@ -16,7 +16,7 @@ Keyword `final`
 Validation  
 > 
 
-[Inheritance]()
+[Inheritance](https://github.com/thrako/java_oop/tree/main/lesson03_inheritance)
 > Inheritance  
 Class Hierarchies  
 Accessing Base Class Members  
@@ -24,14 +24,14 @@ Reusing Classes
 Type of Class Reuse  
 >
 
-[Interfaces and Abstraction]()
+[Interfaces and Abstraction](https://github.com/thrako/java_oop/tree/main/lesson04_interfaces)
 > Abstraction  
 Interfaces  
 Abstract Classes  
 Interfaces vs Abstract Classes  
 >
 
-[Polymorphism]()
+[Polymorphism](https://github.com/thrako/java_oop/tree/main/lesson05_polymorphism)
 > Polymorphism  
 Override Methods  
 Overload Methods  
@@ -87,11 +87,17 @@ Types of Design Patterns
 >
 
 Exam Preparation
-> 
+> [Java OOP Retake Exam - 18 April 2022](https://github.com/thrako/java_oop_exam_2022-04-18)
+> + Zoo App
+> + Pet Store
 >
+> [Java OOP Retake Exam - 22 August 2022](https://github.com/thrako/java_oop_exam_2022-08-22)
+> + Gold Digger App  
+> + Archaeological Excavations  
 
 
 My Exam
->
->
+> [Java OOP - Regular Exam - 10 December 2022](https://github.com/thrako/java_oop_exam_2022-12-10)
+> + Christmas Store App
+> + Toy Store
 

@@ -100,5 +100,3 @@ My Exam
 > [Java OOP - Regular Exam - 10 December 2022](https://github.com/thrako/java_oop_exam_2022-12-10)
 > + Christmas Store App
 > + Toy Store
-
-Test

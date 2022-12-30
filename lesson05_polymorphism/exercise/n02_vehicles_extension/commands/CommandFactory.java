@@ -1,4 +1,4 @@
-package lesson05_polymorphism.exercise.n02_vehicles_extension.comands;
+package lesson05_polymorphism.exercise.n02_vehicles_extension.commands;
 
 import java.util.HashMap;
 import java.util.Map;

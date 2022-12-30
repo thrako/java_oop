@@ -1,7 +1,7 @@
 package lesson05_polymorphism.exercise.n02_vehicles_extension;
 
-import lesson05_polymorphism.exercise.n02_vehicles_extension.comands.Command;
-import lesson05_polymorphism.exercise.n02_vehicles_extension.comands.CommandFactory;
+import lesson05_polymorphism.exercise.n02_vehicles_extension.commands.Command;
+import lesson05_polymorphism.exercise.n02_vehicles_extension.commands.CommandFactory;
 import lesson05_polymorphism.exercise.n02_vehicles_extension.exceptions.VehicleException;
 import lesson05_polymorphism.exercise.n02_vehicles_extension.vehicles.AirConditionedVehicle;
 import lesson05_polymorphism.exercise.n02_vehicles_extension.vehicles.AirConditionedVehicleFactory;

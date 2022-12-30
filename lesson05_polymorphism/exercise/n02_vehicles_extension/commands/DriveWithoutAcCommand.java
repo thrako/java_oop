@@ -1,17 +1,17 @@
-package lesson05_polymorphism.exercise.n02_vehicles_extension.comands;
+package lesson05_polymorphism.exercise.n02_vehicles_extension.commands;
 
 import lesson05_polymorphism.exercise.n02_vehicles_extension.vehicles.AirConditionedVehicle;
 
-public class DriveWithAcCommand implements Command {
+public class DriveWithoutAcCommand implements Command {
 
     private final double distance;
 
-    public DriveWithAcCommand(double distance) {
+    public DriveWithoutAcCommand(double distance) {
         this.distance = distance;
     }
 
     @Override
     public void executeOn(AirConditionedVehicle vehicle) {
-        vehicle.driveWithAC(distance);
+        vehicle.driveWithoutAC(distance);
     }
 }

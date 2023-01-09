@@ -1,4 +1,4 @@
-### Java lessons (_theory and practice_):
+### Java OOP lessons (_theory and practice_):
 
 [:file_folder: Working with Abstraction](https://github.com/thrako/java_oop/tree/main/lesson01_working_with_abstraction) 
 > Project Architecture  
